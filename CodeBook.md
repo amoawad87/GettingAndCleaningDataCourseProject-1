@@ -24,7 +24,9 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ##Variables
 * `x_train`, `y_train`, `subject_train`, `x_test`, `y_test`, `subject_test` are all variables used to read in the raw files
 * `x_data`, `y_data`, `subject_data` are variables used to merge the components of x, y, and subject data
-* 
+* `features` reads in the data from `features.txt`which contains the column names for `x_data`
+* `features_mean_std` is a subset of `features` that contains all of the columns with mean() or std()
+* `activities_labels` reads in the data from `
 
 
 ##Transformations
