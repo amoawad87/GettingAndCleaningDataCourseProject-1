@@ -22,5 +22,9 @@ Additional information can be found here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 ##Variables
+* `x_train`, `y_train`, `subject_train`, `x_test`, `y_test`, `subject_test` are all variables used to read in the raw files
+* `x_data`, `y_data`, `subject_data` are variables used to merge the components of x, y, and subject data
+* 
+
 
 ##Transformations
