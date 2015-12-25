@@ -38,10 +38,10 @@ names(x_data) <- features[features_mean_std, 2]
 ### the data set
 
 # Read in the .txt file
-activities_labels <- read.table("UCI HAR Dataset/activity_labels.txt")
+activity_labels <- read.table("UCI HAR Dataset/activity_labels.txt")
 
 # assign values with the correct activity names
-y_data[, 1] <- activities_labels[y_data[, 1], 2]
+y_data[, 1] <- activity_labels[y_data[, 1], 2]
 
 # change the column name
 names(y_data) <- "activity"
