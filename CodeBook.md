@@ -20,3 +20,7 @@ The goal of this project is to take all the components and merge them into a cle
 Additional information can be found here:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
+##Variables
+
+##Transformations
