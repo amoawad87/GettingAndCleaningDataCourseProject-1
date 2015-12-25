@@ -6,3 +6,17 @@ A description of this file is broken down into three sections:
 3. A description of the transfomrations used to clean up the data
 
 ##Data
+The raw data file can be found here:
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+This data is collected from the accelerometers from the Samsung Galaxy S smartphone. The experiments have been carried out with a group 
+of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, 
+WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) while wearing the phone on the waist. The obtained dataset has been randomly partitioned 
+into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
+
+The goal of this project is to take all the components and merge them into a clean single dataset.
+
+Additional information can be found here:
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
