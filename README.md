@@ -20,3 +20,4 @@ You should create one R script called run_analysis.R that does the following:
 
 ####Repository Files
  `CodeBook.md` describes the variables, the data, and any transformations or work that you performed to clean up the data.
+ `run_analysis.R` contains the .R code used for the analysis as described above. 
